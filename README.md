@@ -6,6 +6,6 @@ A Growth mindest is when you believe that your abilities can be improved upon. W
 
 > **How to keep the "Growth Mindset"**
 
-  - *"If I get stuck, embrace it and push through."*
-  - *"Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."*
-  - *"Learn from any criticism that I receive."*
+1 "If I get stuck, embrace it and push through."*
+   1 "Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."*
+   1 "Learn from any criticism that I receive."*
