@@ -2,6 +2,7 @@
 ## **Journal**
 
 _About Me_
+
 My Name is Jamie Phillips, I currently live in OKC, OK. I was born and raised here. I'm extremely new to the world of code, and am honestly excited to learn more about code and the bare bones of how it works. 
 
 #### A Growth mindest is when you believe that your abilities can be improved upon.
