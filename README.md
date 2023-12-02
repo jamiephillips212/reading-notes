@@ -4,4 +4,4 @@
 
 > * "If I get stuck, embrace it and push through."
 > * "Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."
-> * "Learn from any critism that I receive."
+> * "Learn from any criticism that I receive."
