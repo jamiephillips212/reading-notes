@@ -46,4 +46,4 @@ To create a heading, you will use the pound key (#) in front of the words or phr
  ## What are the three symbols that you can use to create an unordered "bulleted" list with markdown?
  + Dashes (-)
    + Plus Signs (+)
-     + Astericks (*)
+     + Asterisks  (*)
