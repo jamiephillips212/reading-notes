@@ -2,7 +2,11 @@
 
 *About Me*
 
-My Name is Jamie Phillips, I currently reside in the Oklahoma City Metro area. I was born and raised here in Oklahoma City. I'm extremely new to coding and looking forward to learning more about it. 
+- My Name is Jamie Phillips, I currently reside in the Oklahoma City Metro area. I was born and raised here in Oklahoma City.
+- I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt. 
+- I'm extremely new to coding and looking forward to learning more about it. 
+
+
 
 ~~Growth Mindset~~
 
@@ -27,4 +31,4 @@ There are many ways that we use markdown. See the list below.
 - You don't need a specific Operating System or device to create the Markdown text.
 - Markdown exists everywhere. Websites (Ex: Reddit and Github support Markdown)
 ## What Symbol will create a heading in Markdown? 
-To create a heading, you will use the pound key (#) in front of the words or phrases
+To create a heading, you will use the pound key (#) in front of the words or phrases. The number of pound symbols you add
