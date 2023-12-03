@@ -1,6 +1,6 @@
-# reading-notes 📚
+# reading-notes
 
-# My Journal for Code Fellows Readings
+# My Journal for Code Fellows Readings 📚
 
 *About Me*
 
