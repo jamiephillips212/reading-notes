@@ -24,7 +24,7 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
      "Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."
      "Learn from any criticism that I receive."
 
- > # FAQ - Markdown
+# FAQ - Markdown
 ## What is Markdown? 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext documents, and is the most popular markup languages. 
 ## Why do we use it?
