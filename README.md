@@ -26,4 +26,3 @@ There are many ways that we use markdown. See the list below.
 - It is portable meaning that files containing Markdown-formatted text can be opened using any application.
 - You don't need a specific Operating System or device to create the Markdown text.
 - Markdown exists everywhere. Websites (Ex: Reddit and Github support Markdown)
-- 
