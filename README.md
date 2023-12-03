@@ -1,5 +1,7 @@
 # reading-notes 📚
 
+# My Journal for Code Fellows Readings
+
 *About Me*
 
 - My Name is Jamie Phillips, I currently reside in the Oklahoma City Metro area. I was born and raised here in Oklahoma City.
