@@ -41,7 +41,7 @@ To create a heading, you will use the pound key (#) in front of the words or phr
 ## How do you make text bold or itlicized?
 - Use asterisks (*) before and after the phrases and words. (Example: **"I really like coding!"** OR *"Code Fellows is really cool!"*)
   ### How do you create a Link with Markdown? 
-- Enclose the link with text in brackets, (I.E, [Duck Duck Go]) and then follow up with the URL of the website in parenthesis.
+- Enclose the link with text in brackets, (I.E, [Duck Duck Go]) and then follow up with the URL of the website in parenthesis. (EX: [DuckDuckGo](https://duckduckgo.com/)
  ## What are the three symbols that you can use to create an unordered "bulleted" list with markdown?
  + Dashes (-)
    + Plus Signs (+)
