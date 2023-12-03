@@ -38,3 +38,5 @@ There are many ways that we use markdown. See the list below.
 To create a heading, you will use the pound key (#) in front of the words or phrases. The number of pound symbols you add should correspond to the heading level you want to use.
 - Use one pound key to create the largest heading
 - Use six pound keys to create the smallest heading
+## How to make text bold or itlicized?
+- Use asterisks (*) before and after the phrases and words. (Ex: **"I really like coding!"** OR *"Code Fellows is really cool!"*)
