@@ -6,6 +6,7 @@
 
 - My Name is Jamie Phillips, I currently reside in the Oklahoma City Metro area. I was born and raised here in Oklahoma City.
 - I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt.
+- - I was also in theatre during Highschool (but only took it my Freshman and Sophomore years)
 - When I'm not busy doing my work for classes, I usually am playing Video Games or listening to music.
 - My current favorite artists are Keshi, Demxnita, and eaJ. 
   
