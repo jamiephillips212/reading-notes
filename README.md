@@ -35,4 +35,5 @@ There are many ways that we use markdown. See the list below.
 - Markdown exists everywhere. Websites (Ex: Reddit and Github support Markdown)
 - Click [here](https://www.markdownguide.org/getting-started/) for more reasons.
 ## What Symbol will create a heading in Markdown? 
-To create a heading, you will use the pound key (#) in front of the words or phrases. The number of pound symbols you add
+To create a heading, you will use the pound key (#) in front of the words or phrases. The number of pound symbols you add should correspond to the heading level you want to use.
+- 
