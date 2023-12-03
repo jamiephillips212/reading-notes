@@ -30,7 +30,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 ## Why do we use it?
 There are many ways that we use markdown. See the list below.
 - Markdown can be used to create websites, notes, documents, books, etc.
-- It is portable meaning that files containing Markdown-formatted text can be opened using any application.
+- It is portable, meaning that files containing Markdown-formatted text can be opened using any application.
 - You don't need a specific Operating System or device to create the Markdown text.
 - Markdown exists everywhere. Websites (Ex: Reddit and Github support Markdown)
 - Click [here](https://www.markdownguide.org/getting-started/) for more reasons.
