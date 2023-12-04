@@ -6,7 +6,7 @@
 
 - My Name is Jamie Phillips, I currently reside in the Oklahoma City Metro area. I was born and raised here in Oklahoma City.
 - I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt.
-- - I was also in theatre during Highschool (but only took it my Freshman and Sophomore years)
+- I was also in theatre during Highschool (but only took it my Freshman and Sophomore years)
 - When I'm not busy doing my work for classes, I usually am playing Video Games or listening to music.
 - My current favorite artists are Keshi, Demxnita, and eaJ. 
   
@@ -42,7 +42,7 @@ To create a heading, you will use the pound key (#) in front of the words or phr
 ## How do you make text bold or italicized?
 - Use asterisks (*) before and after the phrases and words. (Example: **"I really like coding!"** OR *"Code Fellows is really cool!"*)
   ### How do you create a Link with Markdown? 
-- Enclose the link with text in brackets, (I.E, [Duck Duck Go]) and then follow up with the URL of the website in parenthesis. (EX: [DuckDuckGo](https://duckduckgo.com/)
+- Enclose the link with text in brackets, (I.E, [Duck Duck Go]) and then follow up with the URL of the website in parenthesis.
  ## What are the three symbols that you can use to create an unordered "bulleted" list with markdown?
  + Dashes (-)
    + Plus Signs (+)
