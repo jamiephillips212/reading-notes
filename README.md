@@ -10,6 +10,7 @@
 - When I'm not busy doing my work for classes, I usually am playing Video Games or listening to music.
 - My current favorite artists are Keshi, Demxnita, and eaJ. 
   
+![Choir Group](https://github.com/jamiephillips212/reading-notes/blob/main/Snapchat-944826241.jpg)
 
 Check out [Github](https://github.com/jamiephillips212/) to view my profile.
 
