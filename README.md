@@ -27,4 +27,5 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
      "Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."
      "Learn from any criticism that I receive."
 Contents
+
 Class 102
