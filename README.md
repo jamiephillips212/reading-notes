@@ -9,7 +9,7 @@
 - I was also in theatre during Highschool (but only took it my Freshman and Sophomore years)
 - My current favorite artists are Keshi, Demxnita, and eaJ. 
   
-![Choir Group](https://github.com/jamiephillips212/reading-notes/blob/main/Snapchat-944826241.jpg)
+![Choir](https://github.com/jamiephillips212/reading-notes/blob/main/Snapchat-944826241.jpg)
 > Me and my Highschool choir group from 2019.
 
 
