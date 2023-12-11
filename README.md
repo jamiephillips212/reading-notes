@@ -11,7 +11,7 @@
 - My current favorite artists are Keshi, Demxnita, and eaJ. 
   
 ![Choir Group](https://github.com/jamiephillips212/reading-notes/blob/main/Snapchat-944826241.jpg)
-
+> Me and my Highschool choir group from 2019. (I'm next to my best friend, who is on the standing near the edge.)
 Check out [Github](https://github.com/jamiephillips212/) to view my profile.
 
 ~~Growth Mindset~~
