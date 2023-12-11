@@ -28,4 +28,5 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
 Contents
 
 Class 102
-[Markdown](markdown.md)
+
+[Markdown](https://jamiephillips212.github.io/reading-notes/markdown)
