@@ -13,7 +13,7 @@
 
 Check out [Github](https://github.com/jamiephillips212/) to view my profile.
 
-![file:///C:/Users/XxGra/Downloads/Snapchat-944826241.jpg] 
+![Choir Group](file:///C:/Users/XxGra/Downloads/Snapchat-944826241.jpg)
 
 ~~Growth Mindset~~
 
