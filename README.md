@@ -1,6 +1,6 @@
 # reading-notes
 
-# My Journal for Code Fellows Readings 📚
+My Journal for Code Fellows Readings 📚
 
 *About Me*
 
@@ -22,8 +22,8 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
      "Seeing others succeed, I will not see them as a threat, but become inspired by their accomplishments."
      "Learn from any criticism that I receive."
      
-Table Of Contents:
+# Table Of Contents:
 
-Class 102
+## Class 102
 
 [Markdown](https://jamiephillips212.github.io/reading-notes/markdown)
