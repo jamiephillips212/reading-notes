@@ -8,5 +8,7 @@
 + Code Completion
 + Suggests code to complete your line of code, saving you time by providing a choice, so you don't finish typing and make typos.
 + Emmet: Shorthand (HTML and CSS) language extension to speed up your code writing. (Some text editors come with emmet built in, but can be installed via an extension)
+  
 * Syntax Highlighting
-* Will auto highlight different areas 
+* Will auto highlight different areas with color so you can differentiate your code for refrence.
+* Theme Variety
