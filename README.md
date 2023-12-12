@@ -33,7 +33,7 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 08]
 
-## Class 201
+## Code 201
 
 [Class 01]
 
