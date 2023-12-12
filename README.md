@@ -27,4 +27,5 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
 ## Class 102
 
 [Markdown](https://jamiephillips212.github.io/reading-notes/markdown)
+
 [The Coder's Computer](https://jamiephillips212.github.io/reading-notes/the-coders-computer)
