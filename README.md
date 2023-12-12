@@ -5,7 +5,7 @@
 
 Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses. Here's a few small tidbits about me:
 
-- I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt.
+- I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt. (I didn't take choir my final year of highschool.)
 - Took theatre during Highschool. (but only took it my Freshman and Sophomore years)
 - Current favorite artists are Keshi, Demxnita, Glaive, and eaJ.
   
