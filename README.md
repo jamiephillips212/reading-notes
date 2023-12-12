@@ -1,19 +1,21 @@
 # reading-notes
 
-My Journal for Code Fellows Readings 📚
+*My Journal for Code Fellows Readings* 📚
 
-*About Me*
 
-- I'm Jamie Phillips.
+Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses. Here's a few small tidbits about me:
+
 - I used to be part of a choir group back in Highschool and have a bit of performing arts under my belt.
-- I was also in theatre during Highschool (but only took it my Freshman and Sophomore years)
-- My current favorite artists are Keshi, Demxnita, and eaJ. 
+- Took theatre during Highschool. (but only took it my Freshman and Sophomore years)
+- Current favorite artists are Keshi, Demxnita, Glaive, and eaJ. 
 
-Check out [Github](https://github.com/jamiephillips212/) to view my profile.
-   
+[Check out Github](https://github.com/jamiephillips212/) to view my profile!
+  
 # Table Of Contents:
 
 ## Code 102
+
+[Growth-mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)
 
 [Class 01- Markdown](https://jamiephillips212.github.io/reading-notes/markdown)
 
