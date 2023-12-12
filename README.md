@@ -24,7 +24,7 @@ Check out [Github](https://github.com/jamiephillips212/) to view my profile.
      
 # Table Of Contents:
 
-## Class 102
+## Code 102
 
 [Markdown](https://jamiephillips212.github.io/reading-notes/markdown)
 
