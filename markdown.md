@@ -1,4 +1,4 @@
-# FAQ - Markdown
+# FAQ - Markdown🖱️
 ## What is Markdown? 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext documents, and is the most popular markup languages. 
 ## Why do we use it?
