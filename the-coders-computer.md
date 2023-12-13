@@ -73,7 +73,7 @@
 2. Command - Example: > ls
 3. Argument or Option typically starts with a dash. Example: > -1
 4. Argument
-- Spaces have to be between each of the 4
+> Spaces have to be between each of the 4
 
 # The Shell: Bash
 - The shell is the part of the OS (Operating System) that defines how the terminal will act and appear after typing in a command. Most Common shell is known as *Bash*.
