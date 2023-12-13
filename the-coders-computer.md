@@ -49,23 +49,28 @@
 - Syntax Highlighting, Themes, Extensions
 - Highly reccomended
 
- ## Brackets
+
+ # Brackets
  - Free from Adobe
  - All platforms
  - **ONLY** Supports HTML, CSS, JavaScript without extensions, which can be downloaded.
  - Live Preview
+
 
 # Sublime Text 3
 - Free Version
 - Premium Version ($70)
 - Everything Included
 
+
 # Difference between Text Editors & IDE
 - IDE's contain text editors, but piled in with other software (File manager, complier, and a debugger)
 - May be overwhelming for beginners
 
+
 # Text Editors Conclusion
 - Text editors change often, keep up to date with the latest software updates, so your experience is efficient for you
+
 
 # Linux Tutorial
 Line One
@@ -75,20 +80,24 @@ Line One
 4. Argument
 > Spaces have to be between each of the 4
 
+
 # The Shell: Bash
 - The shell is the part of the OS (Operating System) that defines how the terminal will act and appear after typing in a command. Most Common shell is known as `Bash.`
 - Use the command `echo $SHELL` to find out which shell you are on.
+
 
   # How to move
    `PWD`
   - "Print Working Directory"
   - Will tell you the current location within the directory
 
+
   `ls`
   - "List"
   - Gives you a list of the files available in your current location
   - Adding > `-1`, will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
   - Adding > `l -1/etc` , you can see the list of the contents on that directory.
+
  
 ### Paths
    
