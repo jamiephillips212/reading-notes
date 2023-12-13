@@ -111,7 +111,7 @@
        2. `. (dot)` - represents the currenty directory
        3. `. . (dotdot)` - represents the parent directory
 
-# CD (Change Directory)
+CD (Change Directory)
     1. `cd` can be ran without any arugements to take you back to home directory
     2. `cd` is usually ran with a single command line argument to show where you want to go
     3. The location can be specified as "absolute or relative" path    
