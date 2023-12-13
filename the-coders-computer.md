@@ -50,7 +50,7 @@
 - Highly reccomended
 
 
- # Brackets
+ ### Brackets
  - Free from Adobe
  - All platforms
  - **ONLY** Supports HTML, CSS, JavaScript without extensions, which can be downloaded.
