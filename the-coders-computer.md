@@ -77,7 +77,7 @@
 
 # The Shell: Bash
 - The shell is the part of the OS (Operating System) that defines how the terminal will act and appear after typing in a command. Most Common shell is known as *Bash*.
-- Use the command >echo $SHELL to find out which shell you are on.
+- Use the command echo $SHELL to find out which shell you are on.
 
   # How to move
   > PWD
@@ -91,11 +91,19 @@
   - Adding > -1', will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
   - Adding > l -1/etc , you can see the list of the contents on that directory.
  
-  # Paths
+ # Paths
   - Refers to a file or directory on the command line or terminal
   - There are two types of paths.
     
     1. Absolute
-    > These specify a location in the file or directory in relation to the root directory.
+    > Specifies a location in the file or directory in relation to the root directory.
+    - Always begins with (/)
+      > I.E (/home/user/documents/file.txt)
+    2. Relative
+      > Specifies a location in relation to where you are sitting in the system.
+      - Will not begin with (/)
+      - Example: ls documents file.text
+
+        # Paths continued
     
   
