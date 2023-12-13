@@ -136,12 +136,13 @@
       - `mkdir` - Make Directory, creates new file
       - `touch` - Creates new file
       
-  # Scenarios
-  i. `CD Projects` - Changing location in terminal to folder named "Projects"
-  2. `mkdir new-project`- Create new folder/directory in "Projects folder"
-  3. `touch new-project/newfile.md` - User is creating a new file in "new-project" folder
-  4. `cd ..` - return to parent directory of "projects"
-  5. `ls projects/new-project` - asks for a list of files in "new-project" folder that is in the parent directory "projects"
+> # Scenarios
+ 1. CD projects - Changing location in terminal to folder "projects"
+ 2. mkdir new-project - Create new folder/directory in "projects" folder
+ 3. touch new-project/newfile.md - User is creating a new file in "new-project" folder
+ 4. cd . . - return to parent directory of "projects"
+ 5. ls projects/new-project - ask for a list of files in "new-project" folder that is in the parent directory "projects"
+     
       
          
     
