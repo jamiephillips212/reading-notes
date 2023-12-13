@@ -12,8 +12,7 @@
 - Emmet: Shorthand (HTML and CSS) language extension to speed up your code writing. (Some text editors come with emmet built in, but can be installed via extension)
   
 # Syntax Highlighting
-* Will auto highlight different areas with color so you can differentiate your code for refrence
-* 
+* Will auto highlight different areas with color so you can differentiate your code for refrence  
 * Theme Variety (To reduce fatigue & eye strain)
 * Can change the background & font colors to help you in your working environment
 *  The ultimate goal is to reduce strain on the eyes
