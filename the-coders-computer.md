@@ -113,7 +113,7 @@
        1. `cd` can be ran without any arugements to take you back to home directory
        2. `cd` is usually ran with a single command line argument to show where you want to go
        3. The location can be specified as "absolute or relative" path    
-    > Tab can be used to completed the command line, ONLY if there is a possible outcome
+    Tab can be used to completed the command line, ONLY if there is a possible outcome
 
    > `mkdir (make directory)`
     - Alternative to right clicking a folder to create a new folder
