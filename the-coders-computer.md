@@ -68,7 +68,7 @@
 - Text editors change often, keep up to date with the latest software updates, so your experience is efficient for you
 
 # Linux Tutorial
-## Line One
+Line One
 1. Prompt - Example: > `~`
 2. Command - Example: > `ls`
 3. Argument or Option typically starts with a dash. Example: > `-1`
