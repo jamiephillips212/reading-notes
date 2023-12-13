@@ -69,9 +69,9 @@
 
 # Linux Tutorial
 ## Line One
-1. Prompt - Example: > ~
-2. Command - Example: > ls
-3. Argument or Option typically starts with a dash. Example: > -1
+1. Prompt - Example: > '~'
+2. Command - Example: > 'ls'
+3. Argument or Option typically starts with a dash. Example: > '-1'
 4. Argument
 > Spaces have to be between each of the 4
 
@@ -80,25 +80,23 @@
 - Use the command echo $SHELL to find out which shell you are on.
 
   # How to move
-  > PWD
+  > 'PWD'
   - "Print Working Directory"
   - Will tell you the current location within the directory
 
-
-  > ls
+  > 'ls'
   - "List"
   - Gives you a list of the files available in your current location
   - Adding > -1', will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
   - Adding > l -1/etc , you can see the list of the contents on that directory.
  
- # Paths
-  - Refers to a file or directory on the command line or terminal
-  - There are two types of paths.
+ 
     
     1. Absolute
     > Specifies a location in the file or directory in relation to the root directory.
     - Always begins with (/)
       > I.E (/home/user/documents/file.txt)
+      
     2. Relative
       > Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
@@ -108,7 +106,18 @@
        1. ~ (tilde) - represents shortcut for home directory
        2. . (dot) - represents the currenty directory
        3. . . (dotdot) - represents the parent directory
-       ? I.E: If you are in '/home/user,' you can run the command ls ../ ../ to see the list of the home or root directory
+
+       # CD (Change Directory)
+       1. cd can be ran without any arugements to take you back to home directory
+       2. cd is usually ran with a single command line argument to show where you want to go
+       3. The location can be specified as "absolute or relative" path
+    > Tab can be used to completed the command line, ONLY if there is a possible outcome
+
+    # mkdir (make directory)
+    - Alternative to right clicking a folder to create a new folder
+
+    # touch (create a new file
+    1. Alternative to right clicking a folder to create a new folder
         
     
   
