@@ -115,7 +115,7 @@
     3. The location can be specified as "absolute or relative" path    
     Tab can be used to completed the command line, ONLY if there is a possible outcome
 
-  `mkdir (make directory)`
+  `mkdir` (make directory)
     - Alternative to right clicking a folder to create a new folder
 
   `touch` (create a new file)
@@ -137,11 +137,11 @@
       - `touch` - Creates new file
       
  ###### Scenarios
- 1. CD projects - Changing location in terminal to folder "projects"
- 2. mkdir new-project - Create new folder/directory in "projects" folder
- 3. touch new-project/newfile.md - User is creating a new file in "new-project" folder
- 4. cd . . - return to parent directory of "projects"
- 5. ls projects/new-project - ask for a list of files in "new-project" folder that is in the parent directory "projects"
+ 1. `CD projects` - Changing location in terminal to folder "projects"
+ 2. `mkdir new-project` - Create new folder/directory in "projects" folder
+ 3. `touch new-project/newfile.md` - User is creating a new file in "new-project" folder
+ 4. `cd . .` - return to parent directory of "projects"
+ 5. `ls projects/new-project` - ask for a list of files in "new-project" folder that is in the parent directory "projects"
      
       
          
