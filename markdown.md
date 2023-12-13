@@ -1,8 +1,9 @@
-# FAQ - Markdown🖱️
+# FAQ - Markdown ❓
+
 ## What is Markdown? 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext documents, and is the most popular markup languages. 
 
-## Why do we use it?
+## Why do we use it? 
 There are many ways that we use markdown. See the list below:
 - Markdown can be used to create websites, notes, documents, books, etc.
 - It is portable, meaning that files containing Markdown-formatted text can be opened using any application.
