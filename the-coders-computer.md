@@ -69,7 +69,7 @@
 
 # Linux Tutorial
 ## Line One
-1. Prompt - Example: > `'~'`
+1. Prompt - Example: > `~`
 2. Command - Example: > `ls`
 3. Argument or Option typically starts with a dash. Example: > `-1`
 4. Argument
@@ -101,25 +101,25 @@
   2. Relative
       > Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
-      - Example: ls documents file.text
+      - `Example: ls documents file.text`
 
 
      > # Paths continued: Shortcuts
-       1. ~ (tilde) - represents shortcut for home directory
-       2. . (dot) - represents the currenty directory
-       3. . . (dotdot) - represents the parent directory
+       1. `~ (tilde)` - represents shortcut for home directory
+       2. `. (dot)` - represents the currenty directory
+       3. `. . (dotdot)` - represents the parent directory
 
        # CD (Change Directory)
-       1. cd can be ran without any arugements to take you back to home directory
-       2. cd is usually ran with a single command line argument to show where you want to go
+       1. `cd` can be ran without any arugements to take you back to home directory
+       2. `cd` is usually ran with a single command line argument to show where you want to go
        3. The location can be specified as "absolute or relative" path
           
     > Tab can be used to completed the command line, ONLY if there is a possible outcome
 
-  # mkdir (make directory)
+  # `mkdir (make directory)`
   - Alternative to right clicking a folder to create a new folder
 
-    # touch (create a new file
+    # `touch` (create a new file
     1. Alternative to right clicking a folder to create a new folder
         
     
