@@ -93,7 +93,7 @@
 
  # Paths
     
-  1. Absolute
+  i. Absolute
 - Specifies a location in the file or directory in relation to the root directory.
 - Always begins with (/) 
  `I.E (/home/user/documents/file.txt)`
