@@ -83,7 +83,8 @@
   > PWD
   - "Print Working Directory"
   - Will tell you the current location within the directory
-    
+
+
   > ls
   - "List"
   - Gives you a list of the files available in your current location
