@@ -111,7 +111,7 @@
        2. `. (dot)` - represents the currenty directory
        3. `. . (dotdot)` - represents the parent directory
 
-   ## CD (Change Directory)
+# CD (Change Directory)
     1. `cd` can be ran without any arugements to take you back to home directory
     2. `cd` is usually ran with a single command line argument to show where you want to go
     3. The location can be specified as "absolute or relative" path    
@@ -124,14 +124,13 @@
    Alternative to right clicking a folder to create a new folder
 
 
-   ### Four important features to look for in a text editor?
+### Four important features to look for in a text editor?
            + Code Completion
            + Syntax Highlighting
            + Theme
            + Extensions
              
-
-  ##### Commands & their outcomes
+##### Commands & their outcomes
       - `PWD`- Print Working Document, will show your current location in terminal
       - `ls` - List, shows you a list of files in your current location
       - `cd` - Change Directory, takes you to the file or directory you choose. Just stating `cd` will return you to home directory.
