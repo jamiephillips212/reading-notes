@@ -77,7 +77,7 @@
 
 # The Shell: Bash
 - The shell is the part of the OS (Operating System) that defines how the terminal will act and appear after typing in a command. Most Common shell is known as *Bash*.
-- Use the command > echo $SHELL to find out which shell you are on.
+- Use the command >echo $SHELL to find out which shell you are on.
 
   # How to move
   > PWD
