@@ -90,8 +90,7 @@ Line One
   - Adding > `-1`, will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
   - Adding > `l -1/etc` , you can see the list of the contents on that directory.
  
-
- # Paths
+# Paths
    
   i. Absolute
 - Specifies a location in the file or directory in relation to the root directory.
