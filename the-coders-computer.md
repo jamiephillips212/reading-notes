@@ -25,31 +25,31 @@
 - Double check your extensions
 - Double check your written code! No completed code will result in typos that need to be double checked!
   
-# Third-Party Options
+## Third-Party Options
 * Notepad ++
 * **ONLY** Windows Machines
 * Syntax Highighting, Code & Word completion, Function Completion
 * Zoom
 * Searchable Wiki, Online Community, & Chatroom
 
-# TextWrangler (BB Edit)
+## TextWrangler (BB Edit)
 + Paid features but a 30D trial is available
 + For more, [Click](https://www.barebones.com/products/textwrangler/)
 
-# Visual Studio Code
+## Visual Studio Code
 + Free from Microsoft
 + All platforms
 + Emment included for HTML & CSS
 + Syntax Highlighting, Extensions, Themes, Code Completion
 + Large Following
 
-# Atom
+## Atom
 - Free from Github
 - All platforms
 - Syntax Highlighting, Themes, Extensions
 - Highly reccomended
   
-# Brackets
+## Brackets
  - Free from Adobe
  - All platforms
  - **ONLY** Supports HTML, CSS, JavaScript without extensions, which can be downloaded.
