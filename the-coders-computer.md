@@ -98,7 +98,7 @@
 - Always begins with (/) 
  `I.E (/home/user/documents/file.txt)`
       
-  3. Relative
+  2. Relative
       > Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
       - `Example: ls documents file.text`
@@ -129,7 +129,7 @@
            + Extensions
              
        Commands & their outcomes
-      
+      - `PWD`
       
       
   
