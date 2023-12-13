@@ -137,7 +137,7 @@
       - `touch` - Creates new file
       
  # Scenarios
-> 1. CD projects - Changing location in terminal to folder "projects"
+ 1. CD projects - Changing location in terminal to folder "projects"
  2. mkdir new-project - Create new folder/directory in "projects" folder
  3. touch new-project/newfile.md - User is creating a new file in "new-project" folder
  4. cd . . - return to parent directory of "projects"
