@@ -130,8 +130,18 @@
              
 
   # Commands & their outcomes
-      - `PWD`
-      
+      - `PWD`-
+      - `ls` -
+      - `cd` -
+      - `mkdir` -
+      - `touch` -
+
+  # Scenarios
+  1. `CD projects` -
+  2. `mkdir new project` -
+  3. `touch new project/newfile.md` -
+  4. `cd ..` -
+  5. `ls projects/newproject`
       
   
       
