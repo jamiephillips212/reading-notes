@@ -116,10 +116,10 @@
           
     > Tab can be used to completed the command line, ONLY if there is a possible outcome
 
-  # `mkdir (make directory)`
+  `mkdir (make directory)`
   - Alternative to right clicking a folder to create a new folder
 
-    # `touch` (create a new file
+    `touch` (create a new file)
     1. Alternative to right clicking a folder to create a new folder
         
     
