@@ -99,7 +99,7 @@
  `I.E (/home/user/documents/file.txt)`
       
  2. Relative
-      > Specifies a location in relation to where you are sitting in the system.
+    Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
       - `Example: ls documents file.text`
 
@@ -115,10 +115,10 @@
     3. The location can be specified as "absolute or relative" path    
     Tab can be used to completed the command line, ONLY if there is a possible outcome
 
-   > `mkdir (make directory)`
+  `mkdir (make directory)`
     - Alternative to right clicking a folder to create a new folder
 
-    > `touch` (create a new file)
+  `touch` (create a new file)
    Alternative to right clicking a folder to create a new folder
 
 
