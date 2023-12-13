@@ -80,11 +80,11 @@
 - Use the command `echo $SHELL` to find out which shell you are on.
 
   # How to move
-  > `PWD`
+   `PWD`
   - "Print Working Directory"
   - Will tell you the current location within the directory
 
-  > `ls`
+  `ls`
   - "List"
   - Gives you a list of the files available in your current location
   - Adding > `-1`, will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
@@ -94,9 +94,9 @@
  # Paths
     
   1. Absolute
-    > Specifies a location in the file or directory in relation to the root directory.
-    - Always begins with (/) 
-     `I.E (/home/user/documents/file.txt)`
+- Specifies a location in the file or directory in relation to the root directory.
+- Always begins with (/) 
+ `I.E (/home/user/documents/file.txt)`
       
   3. Relative
       > Specifies a location in relation to where you are sitting in the system.
