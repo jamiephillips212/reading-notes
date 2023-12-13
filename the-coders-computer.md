@@ -104,6 +104,11 @@
       - Will not begin with (/)
       - Example: ls documents file.text
 
-        # Paths continued
+        # Paths continued: Shortcuts
+       1. ~ (tilde) - represents shortcut for home directory
+       2. . (dot) - represents the currenty directory
+       3. . . (dotdot) - represents the parent directory
+       ? I.E: If you are in '/home/user,' you can run the command ls ../ ../ to see the list of the home or root directory
+        
     
   
