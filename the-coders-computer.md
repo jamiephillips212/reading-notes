@@ -137,7 +137,7 @@ CD (Change Directory)
       - `mkdir` - Make Directory, creates new file
       - `touch` - Creates new file
       
- ## Scenarios
+Scenarios
  
  1. `CD projects` - Changing location in terminal to folder "projects"
  2. `mkdir new-project` - Create new folder/directory in "projects" folder
