@@ -99,7 +99,9 @@
  `I.E (/home/user/documents/file.txt)`
       
  ii. Relative
+ 
     Specifies a location in relation to where you are sitting in the system.
+    
       - Will not begin with (/)
       - `Example: ls documents file.text`
 
