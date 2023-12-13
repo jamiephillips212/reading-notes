@@ -95,10 +95,12 @@
     
   1. Absolute
     > Specifies a location in the file or directory in relation to the root directory.
+     
     - Always begins with (/)
+     
       `I.E (/home/user/documents/file.txt)`
       
-  2. Relative
+  3. Relative
       > Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
       - `Example: ls documents file.text`
