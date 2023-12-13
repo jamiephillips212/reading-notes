@@ -93,18 +93,18 @@
 
  # Paths
     
-  i. Absolute
+> i. Absolute
 - Specifies a location in the file or directory in relation to the root directory.
 - Always begins with (/) 
  `I.E (/home/user/documents/file.txt)`
       
-  2. Relative
+  > 2. Relative
       > Specifies a location in relation to where you are sitting in the system.
       - Will not begin with (/)
       - `Example: ls documents file.text`
 
 
-  # Paths continued: Shortcuts
+ >  # Paths continued: Shortcuts
        1. `~ (tilde)` - represents shortcut for home directory
        2. `. (dot)` - represents the currenty directory
        3. `. . (dotdot)` - represents the parent directory
