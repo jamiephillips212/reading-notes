@@ -42,7 +42,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 02](https://jamiephillips212.github.io/reading-notes/code-201/class-02)
 
-[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class/03)
+[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class-03)
 
 [Class 04](https://jamiephillips212.github.io/reading-notes/code-201/class-04)
 
