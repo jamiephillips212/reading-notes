@@ -33,7 +33,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 ## Code 201
 
-[Class 01](https://jamiephillips212.github.io/reading-notes/class06)
+[Class 01]
 
 [Class 02]
 
