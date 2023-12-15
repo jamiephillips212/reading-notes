@@ -38,32 +38,32 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 ## Code 201
 
-[Class 01]
+[Class 01]([https://jamie.phillips212.github.io/reading-notes/code-201/class01)
 
-[Class 02]
+[Class 02](https:/jamiephillips212.github.io/reading-notes/code-201/class02)
 
-[Class 03]
+[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class03)
 
-[Class 04]
+[Class 04](https://jamiephillips.github.io/reading-notes/code-201/class04)
 
-[Class 05]
+[Class 05](https://jamiephillips212.github.io/reading-notes/code-201/class05)
 
-[Class 06]
+[Class 06](https:/jamiephillips.github.io/reading-notes/code-201/class06)
 
-[Class 07]
+[Class 07](https:/jamiephillips.github.io/reading-notes/code-201/class07)
 
-[Class 08]
+[Class 08](https:/jamiephillips.github.io/reading-notes/code-201/class08)
 
-[Class 09]
+[Class 09](https:/jamiephillips.github.io/reading-notes/code-201/class09)
 
-[Class 10]
+[Class 10](https:/jamiephillips.github.io/reading-notes/code-201/class10)
 
-[Class 11]
+[Class 11](https:/jamiephillips.github.io/reading-notes/code-201/class11)
 
-[Class 12]
+[Class 12](https:/jamiephillips.github.io/reading-notes/code-201/class12)
 
-[Class 13]
+[Class 13](https:/jamiephillips.github.io/reading-notes/code-201/class13)
 
-[Class 14]
+[Class 14](https:/jamiephillips.github.io/reading-notes/code-201/class14)
 
-[Class 15]
+[Class 15](https:/jamiephillips.github.io/reading-notes/code-201/class15)
