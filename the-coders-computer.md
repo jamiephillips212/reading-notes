@@ -94,8 +94,8 @@ Line One
   `ls`
   - "List"
   - Gives you a list of the files available in your current location
-  - Adding > `-1`, will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory.
-  - Adding > `l -1/etc` , you can see the list of the contents on that directory.
+  - Adding > `-1`, will give you more information about the files. It will show the type of file it is, Permissions, Blocks, Owner, Group, or directory it belongs to, size, modification time, name, or directory
+  - Adding > `l -1/etc` , you can see the list of the contents on that directory
 
  
 ### Paths
@@ -107,7 +107,7 @@ Line One
       
  ii. Relative
  
-    Specifies a location in relation to where you are sitting in the system.
+    Specifies a location in relation to where you are sitting in the system
     
       - Will not begin with (/)
       - Example: ls documents file.text
