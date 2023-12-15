@@ -26,7 +26,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 03- Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/code-102/revisions-and-the-cloud)
 
-[Class 04- Structure Web Pages with HTML](https://jamiephillips212.github.io/reading-notes/code-102/structure-web-pages-with-html.md)
+[Class 04- Structure Web Pages with HTML](https://jamiephillips212.github.io/reading-notes/code-102/structure-web-pages-with-html)
 
 [Class 05- Design Web Pages with CSS](https://jamiephillips212.github.io/reading-notes/code/102-design-web-pages-with-css)
 
