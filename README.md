@@ -38,7 +38,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 # Code 201
 
-[Class 01]([https://jamie.phillips212.github.io/reading-notes/code-201/class01)
+[Class 01](https://jamiephillips212.github.io/reading-notes/code-201/class01)
 
 [Class 02](https:/jamiephillips212.github.io/reading-notes/code-201/class02)
 
