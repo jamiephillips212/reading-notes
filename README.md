@@ -8,7 +8,7 @@ Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank
 Favorite artists:
 - Keshi
 - Ericdoa
-- Demxnita,
+- Demxnita
 - Glaive 
 - eaJ
   
