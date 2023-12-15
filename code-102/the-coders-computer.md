@@ -138,13 +138,14 @@ CD (Change Directory)
            + Extensions
              
 ## Commands & their outcomes
-      - `PWD`- Print Working Document, will show your current location in terminal
-      - `ls` - List, shows you a list of files in your current location
-      - `cd` - Change Directory, takes you to the file or directory you choose. Just stating `cd` will return you to the home directory.
-      - `mkdir` - Make Directory, creates new file
-      - `touch` - Creates new file
+      - PWD- Print Working Document, will show your current location in terminal
+      - ls - List, shows you a list of files in your current location
+      - cd - Change Directory, takes you to the file or directory you choose. Just stating `cd` will return you to the home directory.
+      - mkdir - Make Directory, creates new file
+      - touch - Creates new file
       
 # Scenarios
+
  1. CD projects - Changing location in terminal to folder "projects"
  2. mkdir new-project - Create new folder/directory in "projects" folder
  3. touch new-project/newfile.md - User is creating a new file in "new-project" folder
