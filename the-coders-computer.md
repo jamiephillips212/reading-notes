@@ -110,7 +110,7 @@ Line One
     Specifies a location in relation to where you are sitting in the system.
     
       - Will not begin with (/)
-      - `Example: ls documents file.text`
+      - Example: ls documents file.text
 
 
 # Paths continued: Shortcuts
