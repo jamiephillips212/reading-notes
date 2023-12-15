@@ -20,11 +20,11 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 ## Code 102
 
-[Class 01- Markdown](https://jamiephillips212.github.io/reading-notes/code-102/class01)
+[Class 01- Markdown](https://jamiephillips212.github.io/reading-notes/code-102/markdown)
 
-[Class 02- The Coder's Computer](https://jamiephillips212.github.io/reading-notes/code-102/class02)
+[Class 02- The Coder's Computer](https://jamiephillips212.github.io/reading-notes/code-102/the-coders-computer)
 
-[Class 03- Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/code-102/class03)
+[Class 03- Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/code-102/revisions-and-the-cloud)
 
 [Class 04](https://jamiephillips212.github.io/reading-notes/code-102/class04)
 
