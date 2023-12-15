@@ -5,9 +5,7 @@
 
 Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses. Here's a few small tidbits about me:
 
-- Used to be part of a choir group back in highschool and have a bit of performing arts under my belt. (Didn't take choir my final year of highschool.)
-- Took theatre during Highschool. (Only took it Freshman and Sophomore year)
-- Current favorite artists are Keshi, Demxnita, Glaive, and eaJ.
+Current favorite artists are Keshi, Demxnita, Glaive, and eaJ.
   
 Here's the link to my first assignment for the Code Fellows course if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)*
 
