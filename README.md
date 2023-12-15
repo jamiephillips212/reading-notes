@@ -3,16 +3,16 @@
 *My Journal for Code Fellows Readings* 📚
 
 
-Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses. Here's a few small tidbits about me:
+Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses!
 
-Favorite artists:
+🎵 Favorite artists:
 - Keshi
 - Ericdoa
 - Demxnita
 - Glaive 
 - eaJ
   
-Here's the link to my first assignment for the Code Fellows course if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)*
+Here's the link to my first assignment for the Code Fellows course if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)!*
 
 Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
   
