@@ -125,10 +125,12 @@ CD (Change Directory)
     Tab can be used to completed the command line, ONLY if there is a possible outcome
 
   `mkdir` (make directory)
+  
     - Alternative to right clicking a folder to create a new folder
 
   `touch` (create a new file)
-   Alternative to right clicking a folder to create a new folder
+  
+  - Alternative to left clicking a folder to create a new folder
 
 
 # Four important features to look for in a text editor?
