@@ -30,11 +30,11 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 05-](https://jamiephillips212.github.io/reading-notes/code-102/design-web-pages-with-css)
 
-[Class 06](https://jamiephillips212.github.io/reading-notes/code-102/class-06)
+[Class 06](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
 
-[Class 07](https://jamiephillips212.github.io/reading-notes/code-102/class-07)
+[Class 07](https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
 
-[Class 08](https://jamiephillips212.github.io/reading-notes/code-102/class-08)
+[Class 08](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
 
 # Code 201
 
