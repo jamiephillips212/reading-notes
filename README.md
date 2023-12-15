@@ -62,8 +62,8 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 12](https:/jamiephillips212.github.io/reading-notes/code-201/class-12)
 
-[Class 13](https://jamiephillips212.github.io/reading-notes/code-201-class-13)
+[Class 13](https://jamiephillips212.github.io/reading-notes/code-201/class-13)
 
 [Class 14](https://jamiephillips212.github.io/reading-notes/code-201/class-14)
 
-[Class 15](https:/jamiephillips212.github.io/reading-notes/code-201/class-15)
+[Class 15](httpsL//jamiephillips212.github.io/reading-notes/code-201/class-15)
