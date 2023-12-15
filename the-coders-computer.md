@@ -114,9 +114,9 @@ Line One
 
 
 # Paths continued: Shortcuts
-       1. `~ (tilde)` - represents shortcut for home directory
-       2. `. (dot)` - represents the currenty directory
-       3. `. . (dotdot)` - represents the parent directory
+       1. ~ (tilde) - represents shortcut for home directory
+       2. . (dot) - represents the currenty directory
+       3. . . (dotdot) - represents the parent directory
 
 CD (Change Directory)
     1. `cd` can be ran without any arugements to take you back to home directory
