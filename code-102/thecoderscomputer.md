@@ -103,7 +103,7 @@ Line One
   i. Absolute
 - Specifies a location in the file or directory in relation to the root directory
 - Always begins with (/) 
- `I.E (/home/user/documents/file.txt)`
+ `I.E (/home/mochi/documents/file.txt)`
       
  ii. Relative
  
@@ -112,7 +112,7 @@ Line One
       - Example: ls documents file.text
 
 
-# Paths continued: Shortcuts
+### Paths continued: Shortcuts
        1. ~ (tilde) - represents shortcut for home directory
        2. . (dot) - represents the current directory
        3. . . (dotdot) - represents the parent directory
@@ -136,7 +136,7 @@ CD (Change Directory)
            + Theme
            + Extensions
              
-# Commands & their outcomes
+## Commands & their outcomes
       - `PWD`- Print Working Document, will show your current location in terminal
       - `ls` - List, shows you a list of files in your current location
       - `cd` - Change Directory, takes you to the file or directory you choose. Just stating `cd` will return you to the home directory.
