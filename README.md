@@ -21,7 +21,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 03- Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/revisions-and-the-cloud)
 
-[Class 04-](https://jamiephillips212.github.io/reading-notes/class04)
+[Class 04](https://jamiephillips212.github.io/reading-notes/class04)
 
 [Class 05](https://jamiephillips212.github.io/reading-notes/class05)
 
