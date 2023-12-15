@@ -3,7 +3,7 @@
 *My Journal for Code Fellows Readings* 📚
 
 
-Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses!
+Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I'm based out of Oklahoma City, Oklahoma (OKC). I was born and raised here. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses!
 
 🎵 Favorite artists:
 - Keshi
@@ -40,30 +40,30 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 01](https://jamiephillips212.github.io/reading-notes/code-201/class-01)
 
-[Class 02](https:/jamiephillips212.github.io/reading-notes/code-201/class-02)
+[Class 02](https://jamiephillips212.github.io/reading-notes/code-201/class-02)
 
-[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class-03)
+[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class/03)
 
-[Class 04](https://jamiephillips.github.io/reading-notes/code-201/class-04)
+[Class 04](https://jamiephillips212.github.io/reading-notes/code-201/class-04)
 
 [Class 05](https://jamiephillips212.github.io/reading-notes/code-201/class-05)
 
-[Class 06](https:/jamiephillips.github.io/reading-notes/code-201/class-06)
+[Class 06](https://jamiephillips212.github.io/reading-notes/code-201/class-06)
 
-[Class 07](https:/jamiephillips.github.io/reading-notes/code-201/class-07)
+[Class 07](https://jamiephillips212.github.io/reading-notes/code-201/class-07)
 
-[Class 08](https:/jamiephillips.github.io/reading-notes/code-201/class-08)
+[Class 08](https://jamiephillips212.github.io/reading-notes/code-201/class-08)
 
-[Class 09](https:/jamiephillips.github.io/reading-notes/code-201/class-09)
+[Class 09](https://jamiephillips212.github.io/reading-notes/code-201/class-09)
 
-[Class 10](https:/jamiephillips.github.io/reading-notes/code-201/class-10)
+[Class 10](https://jamiephillips212.github.io/reading-notes/code-201/class-10)
 
-[Class 11](https:/jamiephillips.github.io/reading-notes/code-201/class-11)
+[Class 11](https://jamiephillips212.github.io/reading-notes/code-201/class-11)
 
-[Class 12](https:/jamiephillips.github.io/reading-notes/code-201/class-12)
+[Class 12](https:/jamiephillips212.github.io/reading-notes/code-201/class-12)
 
-[Class 13](https:/jamiephillips.github.io/reading-notes/code-201/class-13)
+[Class 13](https:/jamiephillips212.github.io/reading-notes/code-201/class-13)
 
-[Class 14](https:/jamiephillips.github.io/reading-notes/code-201/class-14)
+[Class 14](https:/jamiephillips212.github.io/reading-notes/code-201/class-14)
 
-[Class 15](https:/jamiephillips.github.io/reading-notes/code-201/class-15)
+[Class 15](https:/jamiephillips212.github.io/reading-notes/code-201/class-15)
