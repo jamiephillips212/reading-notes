@@ -4,7 +4,7 @@
 
 ## What is Wireframe?
 
-= UX blueprint of the information hierachy in digital design (website, app, other product)
+- UX blueprint of the information hierachy in digital design (website, app, other product)
 
 - Guided by user research, UX designers and clients work together to structure information they want the viewer to digest.
 
