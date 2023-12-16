@@ -1,5 +1,3 @@
-# Notes
-## text text text text text
 # Wireframe and Design
 
 ## Wireframe and Design
