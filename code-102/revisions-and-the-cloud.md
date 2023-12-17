@@ -19,5 +19,5 @@ Files in Git are one of three states:
 - A system that keeps snapshots of changes made to the file or project. Allows user to revisit previous versions
 - `Cloning` - copying all files from a repository to a local computer
 - Track & stage files, user can enter file individually with `git add file.md` or mulitple with `git add *`
-- Take a snapshot of changed files, enter `git commit.file.md` for single files, `git commit -a` for mulitple
+- Take a snapshot of changed files, enter `git commit.file.md` for single files, `git commit -a` for multiple
 - Sends files to Github, user uses `git push origin main`
