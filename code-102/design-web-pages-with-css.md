@@ -27,7 +27,6 @@ What is CSS?
 - Options are a path, id, and class.
 - Path: `<nav>` <ul> <li>
 - Unique ID:
-
 - HTML
 - CSS
 
