@@ -30,7 +30,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 05- Design Web Pages with CSS](https://jamiephillips212.github.io/reading-notes/code-102/design-web-pages-with-css)
 
-[Class 06- Activate-web-pages-with-javascript](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
+[Class 06- Activate Web Pages With Javascript](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
 
 [Class 07](https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
 
