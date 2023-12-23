@@ -33,13 +33,13 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 
 >- A simple example of JavaScript is the **alert** function. This creates a pop-up in browser with text.
 
-- example/js/alert.html
+- `example/js/alert.html`
 `<script language=javascript"> alert("Hello World"); </script>` [^2]
 
 #### Include
 
 - An external `app.js` file that should be linked in the `<head>` section tag using `app.js` attribute.
--Ex: `script src="app.js></script>
+-Ex: `script src="app.js></script>`
 
 ## Variables
 
@@ -47,7 +47,7 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 - `declaration: let myAge: =21`
 - `declaration:      myAge: =22`
 
-- `**const** *will* never change`
+- `const *will* never change`
 - Declaration: `cost myName =Jamie`
 
 ## Data types
