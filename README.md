@@ -32,7 +32,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 06- Activate Web Pages With Javascript](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
 
-[Class 07- Programming-with0javascript}(https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
+[Class 07- Programming-with-javascript}(https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
 
 [Class 08](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
 
