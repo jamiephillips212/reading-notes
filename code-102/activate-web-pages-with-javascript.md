@@ -21,7 +21,7 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 
 - Simple example of embedded JavaScript is the **alert** function. It creates a pop-up in the browser with the text.
 
-> examples/js/alert.html
+> `examples/js/alert.html`
 `<script language="javascript"> alert ("Hello World"); </script>` [^2]
 
 ## Ways to Use JavaScript
