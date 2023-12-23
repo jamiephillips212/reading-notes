@@ -1,38 +1,93 @@
-# Programming with JavaScript
+# What is Javascript?
 
-The **control flow** is the order in which the computer excutes statements in a script. Control flow means that when you read a script, you must not only read from start to finish, but also look at program strcture and and how it affects order of excution. [^1]
+Javascript adds an *interactive* element to websites.
 
-A JavaScript **function** is a block of code designed to perform a particular task. A JavaScript function is excuted when "something" invokes it. (calls it). {^2}.
+> Known as the scripting language for Web pages. [^1]
 
-Declaring a function means making a command/rule
+> Do not confuse JavaScript with the Java programming language — JavaScript is not "Interpreted Java". Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S and other countries. However, the two programming languages have very different syntax, semantics, and use. [^1]
 
-A JavaScript function is defined with the *function keyword*, followed by a *name*,  followed by *parantheses* (). Function names can contain letters, digits, underscores, and dollar signs (same rules as variables). The parenthesis may include parameter names seperated by commas: (parameter1, parameter2, etc.) The code excuted, by the function, is placed inside curly brackets: {} [^2]
-> function name(parameter1,parameter2,parameter3){// code to be excuted}
+JavaScript documentation of core languages:
 
-**Function parameters** are listed inside the parenthese () in the function definition. *Function arguments* are the values received by the function when it is invoked. Inside the function, the arguments (the parameters) behave as local variables. [^2]
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-**Function Invocation** The code inside the function will execute when "something" invokes (calls) the function:
+> We can distingush 3 major parts of what we usually refer to as "JavaScript".
 
-- When an event occurs (when a user clicsk a button)
-- When it is invoked (called) from JavaScript code
-- Automatically (self invoked) [^2]
+1. **The Language itself.** This is fairly standard among the various environments, both the various browsers and in the various server-side environments.
+2. **The DOM API** - How the language can interact with the various parts of a web page while in the browser. While in this respect the various browsers are getting closer to each other they still differ. Several libraries, most prominently JQurey, is trying to provide a unified API.
+3. *The Server **API** (API for short)* provided by Node.js or one of the other server-side systems. [^2]
 
-## *Function Delcaration VS Function Expression*
+When applying JavaScript to HTML, preffered to **include** an external file within the HTML similar to CSS. Another option: *Embed JavaScript directly into a line in HTML.*
 
-- A function delcaration
-- Function Expression can only call it after it has been defined in the code.
+- Simple example of embedded JavaScript is the **alert** function. It creates a pop-up in the browser with the text.
 
-### Resources
+> examples/js/alert.html
+`<script language="javascript"> alert ("Hello World"); </script>` [^2]
 
-1. [Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-2. [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
-3. [JavaScript Operators](https://www.w3schools.com/js/js_operators.asp)
-4. [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-5. [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+## Ways to Use JavaScript
 
-#### Answers
+### Embed
 
-1. Control Flow? - The order in which the computer executes statements in a script
-2. JavaScript Function? - A block of code designed to perform a particular task and excuted when something invokes it.
-3. Invoke/Call a function? - Use the function
-4. Parenthesis () when you define a function? - Parameters
+- Similar to inline CSS
+- `<script>code>/script>`
+
+>- A simple example of JavaScript is the **alert** function. This creates a pop-up in browser with text.
+
+- example/js/alert.html
+`<script language=javascript"> alert("Hello World"); </script>` [^2]
+
+#### Include
+
+- An external `app.js` file that should be linked in the `<head>` section tag using `app.js` attribute.
+-Ex: `script src="app.js></script>
+
+## Variables
+
+- let *can change*
+- `declaration: let myAge: =`21`
+- `declaration:      myAge: =`22`
+
+- `**const** *will* never change`
+- Declaration: `cost myName =`Jamie`
+
+## Data types
+
+- Strings: text with single (`) before and after
+- Numbers: any number but without quotes
+- Boolean: true or false
+
+~Note~ 
+
+- To `comment out` on javascript, use // to start your notes.
+
+## Conditions
+
+- if, else, and else if
+- if example:
+-`const userName = prompt("What is your name?");`
+- `if (userName: "Chris"){`alert("Hi Instructor")`}
+
+- else
+-`else {alert("Glad you're here!);}`
+
+- else if
+- `const userName = prompt ("What is your name?");`
+- if (userName == "Chris){alert("Hi Instructor");} else if (userName == "Molly){"Hey Molly!"};{else {alert("Glad you're here!);}}
+
+# References:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Introduction to JavaScript - Basic Output](https://code-maven.com/introduction-to-javascript)
+- [JavaScript Input with Prompt and Confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+- [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
+
+Additional References
+
+1. [How Computers work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
+# Answers
+
+1. Container for storing information
+2. Creates container or "variable" to store information
+3. (=) is an assignment operator. Assigns the value to the variable.
+4. User input.
