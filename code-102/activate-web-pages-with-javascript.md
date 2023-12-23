@@ -56,7 +56,7 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 - Numbers: any number but without quotes
 - Boolean: true or false
 
-~Note~ 
+~~Note~~
 
 - To `comment out` on javascript, use // to start your notes.
 
