@@ -47,7 +47,7 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 - `declaration: let myAge: =21`
 - `declaration:      myAge: =22`
 
-- `const *will* never change`
+- `const will never change`
 - Declaration: `cost myName =Jamie`
 
 ## Data types
@@ -65,7 +65,7 @@ When applying JavaScript to HTML, preffered to **include** an external file with
 - if, else, and else if
 - if example:
 -`const userName = prompt("What is your name?");`
-- `if (userName: "Chris"){alert("Hi Instructor")`}
+- `if (userName: "Chris"){alert("Hi Instructor")}`
 
 - else
 -`else {alert("Glad you're here!);}`
