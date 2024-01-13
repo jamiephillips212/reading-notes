@@ -36,7 +36,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 08-Operators-and-Loops](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
 
-# Code 201
+# Code 201 - Foundations of Software
 
 [Class 01](https://jamiephillips212.github.io/reading-notes/code-201/class-01)
 
@@ -67,3 +67,8 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 [Class 14](https://jamiephillips212.github.io/reading-notes/code-201/class-14)
 
 [Class 15](https://jamiephillips212.github.io/reading-notes/code-201/class-15)
+
+
+# Code 301 - Intermediate Software Development
+
+# Code 401 - Advanced Software Development
