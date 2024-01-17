@@ -64,17 +64,17 @@ Logical operators are typically used with Boolean (logical) values; when they ar
 
 Operator Usage Description
 
-- Logical AND (&&) - expr1 && expr2 Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
+Logical AND (&&) - expr1 && expr2 Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
 
-- Logical OR (||) - expr1 || expr2 Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
+Logical OR (||) - expr1 || expr2 Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
 
-- Logical NOT (!) -m !expr - Returns false if its single operand that can be converted to true; otherwise, returns true.
+Logical NOT (!) -m !expr - Returns false if its single operand that can be converted to true; otherwise, returns true.
 
 The following code shows examples of the && (logical AND) operator.
 
-- const a1 = true && true; // t && t returns true
+const a1 = true && true; // t && t returns true
 
-- const a2 = true && false; // t && f returns false
+const a2 = true && false; // t && f returns false
 
 const a3 = false && true; // f && t returns false
 
