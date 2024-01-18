@@ -18,25 +18,25 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
   
 # Table Of Contents:
 
-## Code 102
+## Code 102 - Introduction to Software Development 
 
-[Class 01- Markdown](https://jamiephillips212.github.io/reading-notes/code-102/markdown)
+[Class 01 - Markdown](https://jamiephillips212.github.io/reading-notes/code-102/markdown)
 
-[Class 02- The Coder's Computer](https://jamiephillips212.github.io/reading-notes/code-102/the-coders-computer)
+[Class 02 - The Coder's Computer](https://jamiephillips212.github.io/reading-notes/code-102/the-coders-computer)
 
-[Class 03- Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/code-102/revisions-and-the-cloud)
+[Class 03 - Revisions and the Cloud](https://jamiephillips212.github.io/reading-notes/code-102/revisions-and-the-cloud)
 
-[Class 04- Structure Web Pages with HTML](https://jamiephillips212.github.io/reading-notes/code-102/structure-web-pages-with-html)
+[Class 04 - Structure Web Pages with HTML](https://jamiephillips212.github.io/reading-notes/code-102/structure-web-pages-with-html)
 
-[Class 05- Design Web Pages with CSS](https://jamiephillips212.github.io/reading-notes/code-102/design-web-pages-with-css)
+[Class 05 - Design Web Pages with CSS](https://jamiephillips212.github.io/reading-notes/code-102/design-web-pages-with-css)
 
-[Class 06- Activate Web Pages With Javascript](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
+[Class 06 - Activate Web Pages With Javascript](https://jamiephillips212.github.io/reading-notes/code-102/activate-web-pages-with-javascript)
 
-[Class 07- Programming-with-Javascript](https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
+[Class 07 - Programming-with-Javascript](https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
 
 [Class 08 - Operators-and-Loops](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
 
-# Code 201 - Foundations of Software
+## Code 201 - Foundations of Software
 
 [Class 01](https://jamiephillips212.github.io/reading-notes/code-201/class-01)
 
@@ -69,6 +69,6 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 [Class 15](https://jamiephillips212.github.io/reading-notes/code-201/class-15)
 
 
-# Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
-# Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
