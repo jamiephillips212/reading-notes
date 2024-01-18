@@ -34,7 +34,7 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 [Class 07- Programming-with-Javascript](https://jamiephillips212.github.io/reading-notes/code-102/programming-with-javascript)
 
-[Class 08-Operators-and-Loops](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
+[Class 08 - Operators-and-Loops](https://jamiephillips212.github.io/reading-notes/code-102/operators-and-loops)
 
 # Code 201 - Foundations of Software
 
