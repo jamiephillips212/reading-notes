@@ -59,9 +59,9 @@ In addition to the client & server, we need to say hello to:
 # DNS Explained
 
 - Real web addresses aren't the nice, memorable strings you type into your address bar to find your favorite website. They are special numbers that look like this: *192.0.2.162.*
-- 
+  
 - This is called an IP address, and it represents a unique location on the web. However, it's not very easy to remember, is it? That's why the Domain Name System was invented. This system uses special servers that match up a web address you type into your browser (like "mozilla.org") to the website's real (IP) address.
-- 
+  
 - Websites can be reached directly via their addresses. You can use a DNS lookup tool to find the IP address of a website.
 
 # Packets explained
