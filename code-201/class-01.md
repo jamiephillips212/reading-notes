@@ -8,7 +8,7 @@
 
 - Servers are computers that store webpages, sites, or apps. When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
 
-### Other Parts of the Toolbox
+# Other Parts of the Toolbox
 
 - The client and server listed above doesn't tell the entire story. There are other parts involved.
 
@@ -74,15 +74,16 @@ In addition to the client & server, we need to say hello to:
 
 - See More:
 
-- [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work]
+- {How does the internet work}(https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 
-- [https://dev.opera.com/articles/http-basic-introduction/]
+- {basic introduction}(https://dev.opera.com/articles/http-basic-introduction/)
 
-- [https://dev.opera.com/articles/http-response-codes/]
+- {Response Codes}(https://dev.opera.com/articles/http-response-codes/)
 
-- [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like]
+- {What will your website look like?}(https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 
-### First Things first: Planning
+
+# First Things first: Planning
 
 - Before doing anything, you need some ideas. What should your website actually do? A website can do basically anything, but, for your first try, you should keep things simple. We'll start by creating a simple webpage with a heading, and image, and a few paragrpahs.
 
@@ -94,7 +95,8 @@ In addition to the client & server, we need to say hello to:
 
 - What does your website look like, in simple high-level terms? What's the background color? What kind of font is appropriate: formal, cartoony, bold and loud, subtle?
 
-#  Sketching out your design
+
+# Sketching out your design
 
 - Next, grab pen and paper and sketch out roughly how you want your site to look. For your first simple webpage, there's not much to sketch out, by you should get in the habit of doing this now. It really helps — you don't have to be Van Gogh!
 
@@ -144,7 +146,7 @@ In addition to the client & server, we need to say hello to:
 
 - JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. These include:
 
-Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
+> Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
 
 - Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
 
@@ -184,7 +186,7 @@ Browser Application Programming Interfaces (APIs) built into web browsers, provi
 
 # Answers
 
-`In the vast digital space, where data roams,
+In the vast digital space, where data roams,
 lies a story of HTTP, sending itself to computer domes.
 A language, a protocol, speaking in bytes and code,
 Across the web, it's journey unfolds.
@@ -212,7 +214,7 @@ Back to the client, no turning back.
 Through cyberspace, this dance goes on,
 A symphony of packets until dawn.
 HTTP, the messenger, the conduit of our age,
-In the network's embrace, it writes its page.`
+In the network's embrace, it writes its page.
 
 - The browser generates an in-memory DOM tree from the parsed HTML, generates an in-memory CSSOM structure from the parsed CSS, and complies and executes the parsed JavaScript.
 
@@ -286,17 +288,13 @@ In the network's embrace, it writes its page.`
 
 - The <img> element can take a number of attributes, including:
 
-src
-The src attribute is a required attribute that specifies the location of the image. For example: src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png".
+- src: The src attribute is a required attribute that specifies the location of the image. For example: src="https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png".
 
-alt
-The alt attribute specifies a text description of the image. For example: alt="The Firefox icon".
+- alt: The alt attribute specifies a text description of the image. For example: alt="The Firefox icon".
 
-width
-The width attribute specifies the width of the image with the unit being pixels. For example: width="300".
+- width: The width attribute specifies the width of the image with the unit being pixels. For example: width="300".
 
-height
-The height attribute specifies the height of the image with the unit being pixels. For example: height="300".
+- height: The height attribute specifies the height of the image with the unit being pixels. For example: height="300".
 
 # Boolean attributes
 
@@ -320,11 +318,11 @@ The height attribute specifies the height of the image with the unit being pixel
 
 # Single or double quotes?
 
-- You ou will also notice that the attributes are wrapped in double quotes. However, you might see single quotes in some HTML code. This is a matter of style. You can feel free to choose which one you prefer. Both of these lines are equivalent:
+- You will also notice that the attributes are wrapped in double quotes. However, you might see single quotes in some HTML code. This is a matter of style. You can feel free to choose which one you prefer. Both of these lines are equivalent:
 
-<a href='https://www.example.com'>A link to my example.</a>
+- <a href='https://www.example.com'>A link to my example.</a>
 
-<a href="https://www.example.com">A link to my example.</a>
+- <a href="https://www.example.com">A link to my example.</a>
 
 - Make sure you don't mix single quotes and double quotes. This example (below) shows a kind of mixing of quotes that will go wrong:
 
@@ -378,16 +376,13 @@ The height attribute specifies the height of the image with the unit being pixel
 
 - <body></body>: The <body> element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
 
-
 # Basic sections of a document 
 
 - Webpages can and will look pretty different from one another, but they all tend to share similar standard components, unless the page is displaying a fullscreen video or game, is part of some kind of art project, or is just badly structured:
 
-header:
-Usually a big strip across the top with a big heading, logo, and perhaps a tagline. This usually stays the same from one webpage to another.
+- header: Usually a big strip across the top with a big heading, logo, and perhaps a tagline. This usually stays the same from one webpage to another.
 
-navigation bar:
-Links to the site's main sections; usually represented by menu buttons, links, or tabs. Like the header, this content usually remains consistent from one webpage to another — having inconsistent navigation on your website will just lead to confused, frustrated users. Many web designers consider the navigation bar to be part of the header rather than an individual component, but that's not a requirement; in fact, some also argue that having the two separate is better for accessibility, as screen readers can read the two features better if they are separate.
+- navigation bar: Links to the site's main sections; usually represented by menu buttons, links, or tabs. Like the header, this content usually remains consistent from one webpage to another — having inconsistent navigation on your website will just lead to confused, frustrated users. Many web designers consider the navigation bar to be part of the header rather than an individual component, but that's not a requirement; in fact, some also argue that having the two separate is better for accessibility, as screen readers can read the two features better if they are separate.
 
 main content:
 A big area in the center that contains most of the unique content of a given webpage, for example, the video you want to watch, or the main story you're reading, or the map you want to view, or the news headlines, etc. This is the one part of the website that definitely will vary from page to page!
@@ -408,25 +403,35 @@ A strip across the bottom of the page that generally contains fine print, copyri
 
 - In your HTML code, you can mark up sections of content based on their functionality — you can use elements that represent the sections of content described above unambiguously, and assistive technologies like screen readers can recognize those elements and help with tasks like "find the main navigation", or "find the main content." As we mentioned earlier in the course, there are a number of consequences of not using the right element structure and semantics for the right job.
 
-To implement such semantic mark up, HTML provides dedicated tags that you can use to represent such sections, for example:
+- To implement such semantic mark up, HTML provides dedicated tags that you can use to represent such sections, for example:
 
-header: <header>.
-navigation bar: <nav>.
-main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
-sidebar: <aside>; often placed inside <main>.
-footer: <footer>.
+- header: <header>.
 
-### HTML layout elements in more detail
+- navigation bar: <nav>.
 
-<main> is for content unique to this page. Use <main> only once per page, and put it directly inside <body>. Ideally this shouldn't be nested within other elements.
-<article> encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
-<section> is similar to <article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality (e.g., a mini map, or a set of article headlines and summaries), or a theme. It's considered best practice to begin each section with a heading; also note that you can break <article>s up into different <section>s, or <section>s up into different <article>s, depending on the context.
-<aside> contains content that is not directly related to the main content but can provide additional information indirectly related to it (glossary entries, author biography, related links, etc.).
-<header> represents a group of introductory content. If it is a child of <body> it defines the global header of a webpage, but if it's a child of an <article> or <section> it defines a specific header for that section (try not to confuse this with titles and headings).
-<nav> contains the main navigation functionality for the page. Secondary links, etc., would not go in the navigation.
-<footer> represents a group of end content for a page.
+- main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
 
-### Non-semantic wrappers
+- sidebar: <aside>; often placed inside <main>.
+
+- footer: <footer>.
+
+# HTML layout elements in more detail
+
+- <main> is for content unique to this page. Use <main> only once per page, and put it directly inside <body>. Ideally this shouldn't be nested within other elements.
+
+- <article> encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
+
+- <section> is similar to <article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality (e.g., a mini map, or a set of article headlines and summaries), or a theme. It's considered best practice to begin each section with a heading; also note that you can break <article>s up into different <section>s, or <section>s up into different <article>s, depending on the context.
+
+- <aside> contains content that is not directly related to the main content but can provide additional information indirectly related to it (glossary entries, author biography, related links, etc.).
+
+- <header> represents a group of introductory content. If it is a child of <body> it defines the global header of a webpage, but if it's a child of an <article> or <section> it defines a specific header for that section (try not to confuse this with titles and headings).
+
+- <nav> contains the main navigation functionality for the page. Secondary links, etc., would not go in the navigation.
+
+- <footer> represents a group of end content for a page.
+
+# Non-semantic wrappers
 
 - Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the <div> and <span> elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
 
@@ -440,7 +445,7 @@ footer: <footer>.
   </span>
 </p>
 
-<div> is a block level non-semantic element, which you should only use if you can't think of a better semantic block element to use, or don't want to add any specific meaning. For example, imagine a shopping cart widget that you could choose to pull up at any point during your time on an e-commerce site:
+- <div> is a block level non-semantic element, which you should only use if you can't think of a better semantic block element to use, or don't want to add any specific meaning. For example, imagine a shopping cart widget that you could choose to pull up at any point during your time on an e-commerce site:
 
 <div class="shopping-cart">
   <h2>Shopping cart</h2>
@@ -456,11 +461,11 @@ footer: <footer>.
   <p>Total cost: $237.89</p>
 </div>
 
-> This isn't really an <aside>, as it doesn't necessarily relate to the main content of the page (you want it viewable from anywhere). It doesn't even particularly warrant using a <section>, as it isn't part of the main content of the page. So a <div> is fine in this case. We've included a heading as a signpost to aid screen reader users in finding it.
+- This isn't really an <aside>, as it doesn't necessarily relate to the main content of the page (you want it viewable from anywhere). It doesn't even particularly warrant using a <section>, as it isn't part of the main content of the page. So a <div> is fine in this case. We've included a heading as a signpost to aid screen reader users in finding it.
 
 > Warning: Divs are so convenient to use that it's easy to use them too much. As they carry no semantic value, they just clutter your HTML code. Take care to use them only when there is no better semantic solution and try to reduce their usage to the minimum otherwise you'll have a hard time updating and maintaining your documents.
 
-### Line breaks and horizontal rules:
+# Line breaks and horizontal rules:
 
 - Two elements that you'll use occasionally and will want to know about are <br> and <hr>.
 
@@ -475,7 +480,7 @@ footer: <footer>.
   and his markup didn't read very well.
 </p>
 
-- Without the <br> elements, the paragraph would just be rendered in one long line
+- Without the <br> elements, the paragraph would just be rendered in one long line.
 
 - <hr>: the thematic break element
 
@@ -585,3 +590,5 @@ started with developing websites and applications." />
 - Metadata and how it works?
 
 - Metadata and how it plays a role in SEO?
+
+-  API's
