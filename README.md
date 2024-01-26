@@ -6,13 +6,12 @@
 Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I'm based out of Oklahoma City, Oklahoma (OKC). I was born and raised here. I wanted to thank you for checking out my journey through the Code Fellows bootcamp courses!
 
 🎵 Favorite artists:
-- Keshi
-- Ericdoa
 - Demxnita
-- Glaive 
-- eaJ
-  
-Here's the link to my first assignment for the Code Fellows course if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)!*
+- Ericdoa
+- Glaive
+- Keshi
+- 
+Here's the link to my first assignment for the Code Fellows course 102 if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)!*
 
 Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
   
@@ -38,35 +37,35 @@ Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
 
 ## Code 201 - Foundations of Software
 
-[Class 01](https://jamiephillips212.github.io/reading-notes/code-201/class-01)
+[Class 01- Notes 01](https://jamiephillips212.github.io/reading-notes/code-201/class-01)
 
-[Class 02](https://jamiephillips212.github.io/reading-notes/code-201/class-02)
+[Class 02- Notes 02](https://jamiephillips212.github.io/reading-notes/code-201/class-02)
 
-[Class 03](https://jamiephillips212.github.io/reading-notes/code-201/class-03)
+[Class 03- Notes 03](https://jamiephillips212.github.io/reading-notes/code-201/class-03)
 
-[Class 04](https://jamiephillips212.github.io/reading-notes/code-201/class-04)
+[Class 04- Notes 04](https://jamiephillips212.github.io/reading-notes/code-201/class-04)
 
-[Class 05](https://jamiephillips212.github.io/reading-notes/code-201/class-05)
+[Class 05- Notes 05](https://jamiephillips212.github.io/reading-notes/code-201/class-05)
 
-[Class 06](https://jamiephillips212.github.io/reading-notes/code-201/class-06)
+[Class 06 - Notes 06](https://jamiephillips212.github.io/reading-notes/code-201/class-06)
 
-[Class 07](https://jamiephillips212.github.io/reading-notes/code-201/class-07)
+[Class 07- Notes 07](https://jamiephillips212.github.io/reading-notes/code-201/class-07)
 
-[Class 08](https://jamiephillips212.github.io/reading-notes/code-201/class-08)
+[Class 08- Notes 08](https://jamiephillips212.github.io/reading-notes/code-201/class-08)
 
-[Class 09](https://jamiephillips212.github.io/reading-notes/code-201/class-09)
+[Class 09- Notes 09](https://jamiephillips212.github.io/reading-notes/code-201/class-09)
 
-[Class 10](https://jamiephillips212.github.io/reading-notes/code-201/class-10)
+[Class 10- Notes 10](https://jamiephillips212.github.io/reading-notes/code-201/class-10)
 
-[Class 11](https://jamiephillips212.github.io/reading-notes/code-201/class-11)
+[Class 11- Notes 11](https://jamiephillips212.github.io/reading-notes/code-201/class-11)
 
-[Class 12](https://jamiephillips212.github.io/reading-notes/code-201/class-12)
+[Class 12- Notes 12](https://jamiephillips212.github.io/reading-notes/code-201/class-12)
 
-[Class 13](https://jamiephillips212.github.io/reading-notes/code-201/class-13)
+[Class 13 - Notes 13](https://jamiephillips212.github.io/reading-notes/code-201/class-13)
 
-[Class 14](https://jamiephillips212.github.io/reading-notes/code-201/class-14)
+[Class 14- Notes 14](https://jamiephillips212.github.io/reading-notes/code-201/class-14)
 
-[Class 15](https://jamiephillips212.github.io/reading-notes/code-201/class-15)
+[Class 15- Notes 15](https://jamiephillips212.github.io/reading-notes/code-201/class-15)
 
 
 ## Code 301 - Intermediate Software Development
