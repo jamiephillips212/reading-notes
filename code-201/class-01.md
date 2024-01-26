@@ -311,26 +311,15 @@ In the network's embrace, it writes its page.`
 
 - To use quote marks inside other quote marks of the same type (single quote or double quote), use HTML entities. For example, this will break:
 
-<a href="https://www.example.com" title="An "interesting" reference">A link to my example.</a>
+  > `<a href="https://www.example.com" title="An "interesting" reference">A link to my example.</a>`
 
 - Instead, you need to do this:
 
-- `<a href="https://www.example.com" title="An &quot;interesting&quot; reference">A link to my example.</a>`
+  > `<a href="https://www.example.com" title="An &quot;interesting&quot; reference">A link to my example.</a>`
 
 # Anatomy of an HTML document
 
-- Individual HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:
-  
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8" />
-    <title>My test page</title>
- </head>
-  <body>
-   <p>This is my page</p>
- </body>
-</html>
+- Individual HTML elements aren't very useful on their own.
 
 - Here we have:
 - `<!DOCTYPE html>`: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML.
@@ -338,17 +327,17 @@ In the network's embrace, it writes its page.`
 -  Doctypes used to look something like this:
 > `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
 
-- More recently, the doctype is a historical artifact that needs to be included for everything else to work right. <!DOCTYPE html> is the shortest string of characters that counts as a valid doctype. That is all you need to know!
+- More recently, the doctype is a historical artifact that needs to be included for everything else to work right. `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype. That is all you need to know!
 
-- `<html></html>`: The <html> element. This element wraps all the content on the page. It is sometimes known as the root element.
+- `<html></html>`: The `<html>` element. This element wraps all the content on the page. It is sometimes known as the root element.
 
-- `<head></head>`: The <head> element. This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series.
+- `<head></head>`: The `<head>` element. This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series.
 
-- `<meta charset="utf-8">`: The <meta> element. This element represents metadata that cannot be represented by other HTML meta-related elements, like <base>, <link>, <script>, <style> or <title>. The charset attribute specifies the character encoding for your document as UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
+- `<meta charset="utf-8">`: The <meta> element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>, <link>, <script>, <style> or <title>.` The charset attribute specifies the character encoding for your document as UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
   
-- `<title></title>`: The <title> element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
+- `<title></title>`: The `<title>` element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
 
-- `<body></body>`: The <body> element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
+- `<body></body>`: The `<body>` element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
 
 # Basic sections of a document
 
@@ -356,14 +345,15 @@ In the network's embrace, it writes its page.`
   
 - `header`: Usually a big strip across the top with a big heading, logo, and perhaps a tagline. This usually stays the same from one webpage to another.
   
-- `navigation bar`: Links to the site's main sections; usually represented by menu buttons, links, or tabs. Like the header, this content usually remains consistent from one webpage to another — having inconsistent navigation on your website will just lead to confused, frustrated users. Many web designers consider the navigation bar to be part of the header rather than an individual component, but that's not a requirement; in fact, some also argue that having the two separate is better for accessibility, as screen readers can read the two features better if they are separate.
-
+- `navigation bar`: Links to the site's main sections; usually represented by menu buttons, links, or tabs. Like the header, this content usually remains consistent from one webpage to another — having inconsistent navigation on your website will just lead to confused, frustrated users.
+  
 - `main content`: A big area in the center that contains most of the unique content of a given webpage, for example, the video you want to watch, or the main story you're reading, or the map you want to view, or the news headlines, etc. This is the one part of the website that definitely will vary from page to page!
 
 - `sidebar`: Some peripheral info, links, quotes, ads, etc. Usually, this is contextual to what is contained in the main content (for example on a news article page, the sidebar might contain the author's bio, or links to related articles) but there are also cases where you'll find some recurring elements like a secondary navigation system.
-- footer:
   
-- A strip across the bottom of the page that generally contains fine print, copyright notices, or contact info. It's a place to put common information (like the header) but usually, that information is not critical or secondary to the website itself. The footer is also sometimes used for SEO purposes, by providing links for quick access to popular content.
+- footer: `<footer>`
+  
+- A strip across the bottom of the page that generally contains fine print, copyright notices, or contact info. It's a place to put common information `(like the header)` but usually, that information is not critical or secondary to the website itself. The footer is also sometimes used for SEO purposes, by providing links for quick access to popular content.
 
 > Note: The image above illustrates the main sections of a document, which you can define with HTML. However, the appearance of the page shown here - including the layout, colors, and fonts - is achieved by applying CSS to the HTML.
 
@@ -373,7 +363,7 @@ In the network's embrace, it writes its page.`
 
 > Note: Roughly 8% of men and 0.5% of women are colorblind; or, to put it another way, approximately 1 in every 12 men and 1 in every 200 women. Blind and visually impaired people represent roughly 4-5% of the world population (in 2015 there were 940 million people with some degree of vision loss, while the total population was around 7.5 billion).
 
-- In your HTML code, you can mark up sections of content based on their functionality — you can use elements that represent the sections of content described above unambiguously, and assistive technologies like screen readers can recognize those elements and help with tasks like "find the main navigation", or "find the main content." As we mentioned earlier in the course, there are a number of consequences of not using the right element structure and semantics for the right job.
+- HTML code, you can mark up sections of content based on their functionality — you can use elements that represent the sections of content described above unambiguously, and assistive technologies like screen readers can recognize those elements and help with tasks like "find the main navigation", or "find the main content."
   
 - To implement such semantic mark up, HTML provides dedicated tags that you can use to represent such sections, for example:
   
@@ -405,7 +395,7 @@ In the network's embrace, it writes its page.`
 
 # Non-semantic wrappers
 
-- Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the <div> and <span> elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
+- Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div> and <span>` elements.
 
 - `<span>` is an inline non-semantic element, which you should only use if you can't think of a better semantic text element to wrap your content, or don't want to add any specific meaning. For example:
 
@@ -417,21 +407,7 @@ In the network's embrace, it writes its page.`
   </span>
 </p>
 
-- `<div>` is a block level non-semantic element, which you should only use if you can't think of a better semantic block element to use, or don't want to add any specific meaning. For example, imagine a shopping cart widget that you could choose to pull up at any point during your time on an e-commerce site:
-
-`<div class="shopping-cart">`
-  `<h2>Shopping cart</h2>`
-  `<ul>`
-    `<li>`
-      `<p>`
-        `<a href=""><strong>Silver earrings</strong></a>: $99.95.`
-      `</p>`
-      `<img src="../products/3333-0985/thumb.png" alt="Silver earrings" />`
-    `</li>`
-    `<li>…</li>`
-  `</ul>`
-  `<p>Total cost: $237.89</p>`
-`</div>`
+- `<div>` is a block level non-semantic element, which you should only use if you can't think of a better semantic block element to use, or don't want to add any specific meaning.
 
 - This isn't really an <aside>, as it doesn't necessarily relate to the main content of the page (you want it viewable from anywhere). It doesn't even particularly warrant using a <section>, as it isn't part of the main content of the page. So a <div> is fine in this case. We've included a heading as a signpost to aid screen reader users in finding it.
 
@@ -445,33 +421,21 @@ In the network's embrace, it writes its page.`
 
 - `<br>` creates a line break in a paragraph; it is the only way to force a rigid structure in a situation where you want a series of fixed short lines, such as in a postal address or a poem. For example:
 
-`<p>
+<p>
   There once was a man named O'Dell<br />
   Who loved to write HTML<br />
   But his structure was bad, his semantics were sad<br />
-  and his markup didn't read very well.`
-`</p>`
+  and his markup didn't read very well. 
+</p>
 
 - Without the `<br>` elements, the paragraph would just be rendered in one long line.
 
 - `<hr>`: the thematic break element
-- `<hr>` elements create a horizontal rule in the document that denotes a thematic change in the text (such as a change in topic or scene). Visually it just looks like a horizontal line. As an example:
-
-`<p>
-  Ron was backed into a corner by the marauding netherbeasts. Scared, but
-  determined to protect his friends, he raised his wand and prepared to do
-  battle, hoping that his distress call had made it through.`
-`</p>`
-`<hr />`
-`<p>`
-  `Meanwhile, Harry was sitting at home, staring at his royalty statement and`
-  `pondering when the next spin off series would come out, when an enchanted`
-  `distress letter flew through his window and landed in his lap. He read it`
-  `hazily and sighed; "better get back to work then", he mused.`
-`</p>`
+- `<hr>` elements create a horizontal rule in the document that denotes a thematic change in the text (such as a change in topic or scene). Visually it just looks like a horizontal line.
 
 # What is the HTML head?
-- The HTML head is the contents of the <head> element. Unlike the contents of the <body> element (which are displayed on the page when loaded in a browser), the head's content is not displayed on the page. Instead, the head's job is to contain metadata about the document.
+
+- The HTML head is the contents of the `<head>` element. Unlike the contents of the <body> element (which are displayed on the page when loaded in a browser), the head's content is not displayed on the page. Instead, the head's job is to contain metadata about the document.
 
 # Adding a title
 
@@ -505,20 +469,20 @@ In the network's embrace, it writes its page.`
 
 - Two such meta elements that are useful to include on your page define the author of the page, and provide a concise description of the page.
 
-> EX: `<meta name="author" content="Chris Mills" />
+> EX: <meta name="author" content="Chris Mills" />
 <meta
   name="description"
   content="The MDN Web Docs Learning Area aims to provide
 complete beginners to the Web with all they need to know to get
-started with developing websites and applications." />`
+started with developing websites and applications." />
 
 - Specifying an author is beneficial in many ways: it is useful to be able to understand who wrote the page, if you have any questions about the content and you would like to contact them. Some content management systems have facilities to automatically extract page author information and make it available for such purposes.
 
-- Specifying a description that includes keywords relating to the content of your page is useful as it has the potential to make your page appear higher in relevant searches performed in search engines (such activities are termed Search Engine Optimization, or SEO.)
+- Specifying a description that includes keywords relating to the content of your page is useful as it has the potential to make your page appear higher in relevant searches performed in search engines (such activities are termed `Search Engine Optimization`, or SEO.)
 
 > Note: In Google, you will see some relevant subpages of MDN Web Docs listed below the main homepage link — these are called sitelinks, and are configurable in Google's webmaster tools — a way to make your site's search results better in the Google search engine.
 
-> Note: Many <meta> features just aren't used anymore. For example, the keyword <meta> element `(<meta name="keywords" content="fill, in, your, keywords, here">)` — which is supposed to provide keywords for search engines to determine relevance of that page for different search terms — is ignored by search engines, because spammers were just filling the keyword list with hundreds of keywords, biasing results.
+> Note: Many `<meta>` features just aren't used anymore. For example, the keyword <meta> element `(<meta name="keywords" content="fill, in, your, keywords, here">)` — which is supposed to provide keywords for search engines to determine relevance of that page for different search terms — is ignored by search engines, because spammers were just filling the keyword list with hundreds of keywords, biasing results.
 
 - As you travel around the web, you'll find other types of metadata, too. A lot of the features you'll see on websites are proprietary creations, designed to provide certain sites (such as social networking sites) with specific pieces of information they can use.
 
@@ -526,15 +490,15 @@ started with developing websites and applications." />`
 
 - To further enrich your site design, you can add references to custom icons in your metadata, and these will be displayed in certain contexts. The most commonly used of these is the favicon (short for "favorites icon", referring to its use in the "favorites" or "bookmarks" lists in browsers).
 
-- The humble favicon has been around for many years. It is the first icon of this type: a 16-pixel square icon used in multiple places. You may see (depending on the browser) favicons displayed in the browser tab containing each open page, and next to bookmarked pages in the bookmarks panel.
+- The humble favicon has been around for many years. It is the first icon of this type: a `16-pixel` square icon used in multiple places. You may see (depending on the browser) favicons displayed in the browser tab containing each open page, and next to bookmarked pages in the bookmarks panel.
 
 - A favicon can be added to your page by:
 
-- Saving it in the same directory as the site's index page, saved in .ico format (most also support favicons in more common formats like .gif or .png)
+- Saving it in the same directory as the site's index page, saved in `.ico` format (most also support favicons in more common formats like `.gif or .png`)
 - Adding the following line into your HTML's <head> block to reference it:
 - `<link rel="icon" href="favicon.ico" type="image/x-icon" />`
 
-> Note: If your site uses a Content Security Policy (CSP) to enhance its security, the policy applies to the favicon. If you encounter problems with the favicon not loading, verify that the Content-Security-Policy header's img-src directive is not preventing access to it.
+> Note: If your site uses a `Content Security Policy (CSP)` to enhance its security, the policy applies to the favicon. If you encounter problems with the favicon not loading, verify that the Content-Security-Policy header's img-src directive is not preventing access to it.
 
 ### Answers
 - An HTML attribute is the information inside the opening tag.
