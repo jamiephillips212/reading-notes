@@ -10,7 +10,7 @@ Hello! Welcome to my Code Fellows Journal. I'm Jamie Phillips. I'm based out of 
 - Ericdoa
 - Glaive
 - Keshi
-- 
+  
 Here's the link to my first assignment for the Code Fellows course 102 if you wanted to see my proccess throughout this course duration: *[Growth-Mindset](https://jamiephillips212.github.io/reading-notes/growth-mindset)!*
 
 Check out [Profile](https://github.com/jamiephillips212/) to view my profile!
