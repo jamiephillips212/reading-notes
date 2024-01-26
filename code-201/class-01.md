@@ -46,11 +46,11 @@ In addition to the client & server, we need to say hello to:
 
 # Order in which component files are parsed
 
-- When browsers send requests to servers for HTML files, those HTML files often contain *<link>* elements referencing external CSS stylesheets and *<script>* elements referencing external JavaScript scripts. It is important to know the order in which those files are parsed by the browser as the browser loads the page:
+- When browsers send requests to servers for HTML files, those HTML files often contain `<link>` elements referencing external CSS stylesheets and `<script>` elements referencing external JavaScript scripts. It is important to know the order in which those files are parsed by the browser as the browser loads the page:
 
-- The browser parses the HTML file first, and that leads to the browser recognizing any <link>-element references to external CSS stylesheets and any <script>-element references to scripts.
+- The browser parses the HTML file first, and that leads to the browser recognizing any `<link>-element` references to external CSS stylesheets and any `script>-element` references to scripts.
 
-- As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from <link> elements, and any JavaScript files it has found from <link> elements, and any JavaScript files has found from <script> elements, and from those, then parses the CSS and JavaScript.
+- As the browser parses the HTML, it sends requests back to the server for any CSS files it has found from <link> elements, and any JavaScript files it has found from `<link>` elements, and any JavaScript files has found from `<script>` elements, and from those, then parses the CSS and JavaScript.
 
 - The browser generates an in-memory DOM tree from the parsed HTML, generates an in-memory CSSOM structure from the parsed CSS, and complies and executes the parsed JavaScript.
 
@@ -58,9 +58,9 @@ In addition to the client & server, we need to say hello to:
 
 # DNS Explained
 
-- Real web addresses aren't the nice, memorable strings you type into your address bar to find your favorite website. They are special numbers that look like this: *192.0.2.162.*
+- Real web addresses aren't the nice, memorable strings you type into your address bar to find your favorite website. They are special numbers that look like this: `192.0.2.162.`
   
-- This is called an IP address, and it represents a unique location on the web. However, it's not very easy to remember, is it? That's why the Domain Name System was invented. This system uses special servers that match up a web address you type into your browser (like "mozilla.org") to the website's real (IP) address.
+- This is called an IP address, and it represents a unique location on the web. However, it's not very easy to remember, is it? That's why the Domain Name System was invented. This system uses special servers that match up a web address you type into your browser (like `"mozilla.org"`) to the website's real `(IP)` address.
   
 - Websites can be reached directly via their addresses. You can use a DNS lookup tool to find the IP address of a website.
 
@@ -242,7 +242,7 @@ In the network's embrace, it writes its page.`
 
 # Void elements
 
-- Not all elements follow the pattern of an opening tag, content, and a closing tag. Some elements consist of a single tag, which is typically used to insert/embed something in the document. Such elements are called void elements. For example, the <img> element embeds an image file onto a page.
+- Not all elements follow the pattern of an opening tag, content, and a closing tag. Some elements consist of a single tag, which is typically used to insert/embed something in the document. Such elements are called void elements. For example, the `<img>` element embeds an image file onto a page.
 
 > Note: In HTML, there is no requirement to add a / at the end of a void element's tag, for example: `<img src="images/cat.jpg" alt="cat" />`. However, it is also a valid syntax, and you may do this when you want your HTML to be valid XML.
 
@@ -321,19 +321,18 @@ In the network's embrace, it writes its page.`
 
 - Individual HTML elements aren't very useful on their own.
 
-- Here we have:
 - `<!DOCTYPE html>`: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML.
   
 -  Doctypes used to look something like this:
 > `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
 
-- More recently, the doctype is a historical artifact that needs to be included for everything else to work right. `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype. That is all you need to know!
+- Recently, the doctype is a historical artifact that needs to be included for everything else to work right. `<!DOCTYPE html>` is the shortest string of characters that counts as a valid doctype. That is all you need to know!
 
 - `<html></html>`: The `<html>` element. This element wraps all the content on the page. It is sometimes known as the root element.
 
 - `<head></head>`: The `<head>` element. This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series.
 
-- `<meta charset="utf-8">`: The <meta> element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>, <link>, <script>, <style> or <title>.` The charset attribute specifies the character encoding for your document as UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
+- `<meta charset="utf-8">`: The <meta> element. This element represents metadata that cannot be represented by other HTML meta-related elements, like `<base>, <link>, <script>, <style> or <title>.` The charset attribute specifies the character encoding for your document as `UTF-8`, which includes most characters from the vast majority of human written languages.
   
 - `<title></title>`: The `<title>` element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
 
@@ -379,7 +378,7 @@ In the network's embrace, it writes its page.`
 
 # HTML layout elements in more detail
 
-- `<main>` is for content unique to this page. Use <main> only once per page, and put it directly inside <body>. Ideally this shouldn't be nested within other elements.
+- `<main>` is for content unique to this page. Use <main> only once per page, and put it directly inside `<body>`. Ideally this shouldn't be nested within other elements.
 
 - `<article>` encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
 
@@ -395,21 +394,13 @@ In the network's embrace, it writes its page.`
 
 # Non-semantic wrappers
 
-- Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div> and <span>` elements.
-
+- Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript.
+- 
 - `<span>` is an inline non-semantic element, which you should only use if you can't think of a better semantic text element to wrap your content, or don't want to add any specific meaning. For example:
-
-<p>
-  The King walked drunkenly back to his room at 01:00, the beer doing nothing to
-  aid him as he staggered through the door.
-  <span class="editor-note">
-    [Editor's note: At this point in the play, the lights should be down low].
-  </span>
-</p>
 
 - `<div>` is a block level non-semantic element, which you should only use if you can't think of a better semantic block element to use, or don't want to add any specific meaning.
 
-- This isn't really an <aside>, as it doesn't necessarily relate to the main content of the page (you want it viewable from anywhere). It doesn't even particularly warrant using a <section>, as it isn't part of the main content of the page. So a <div> is fine in this case. We've included a heading as a signpost to aid screen reader users in finding it.
+- This isn't really an `<aside>`, as it doesn't necessarily relate to the main content of the page (you want it viewable from anywhere). It doesn't even particularly warrant using a `<section>`, as it isn't part of the main content of the page. So a `<div>` is fine in this case.
 
 > Warning: Divs are so convenient to use that it's easy to use them too much. As they carry no semantic value, they just clutter your HTML code. Take care to use them only when there is no better semantic solution and try to reduce their usage to the minimum otherwise you'll have a hard time updating and maintaining your documents.
 
@@ -419,14 +410,7 @@ In the network's embrace, it writes its page.`
 
 - `<br>`: the line break element
 
-- `<br>` creates a line break in a paragraph; it is the only way to force a rigid structure in a situation where you want a series of fixed short lines, such as in a postal address or a poem. For example:
-
-<p>
-  There once was a man named O'Dell<br />
-  Who loved to write HTML<br />
-  But his structure was bad, his semantics were sad<br />
-  and his markup didn't read very well. 
-</p>
+- `<br>` creates a line break in a paragraph; it is the only way to force a rigid structure in a situation where you want a series of fixed short lines, such as in a postal address or a poem.
 
 - Without the `<br>` elements, the paragraph would just be rendered in one long line.
 
@@ -439,7 +423,7 @@ In the network's embrace, it writes its page.`
 
 # Adding a title
 
-- We've already seen the `<title>` element in action — this can be used to add a title to the document. This however can get confused with the `h1` element, which is used to add a top level heading to your body content — this is also sometimes referred to as the page title. But they are different things!
+- We've already seen the `<title>` element in action — this can be used to add a title to the document. This however can get confused with the `h1` element, which is used to add a top level heading to your body content — this is also sometimes referred to as the page title. 
   
 - `h1` element appears on the page when loaded in the browser — generally this should be used once per page, to mark up the title of your page content (the story title, or news headline, or whatever is appropriate to your usage.)
 
@@ -462,19 +446,13 @@ In the network's embrace, it writes its page.`
 > Note: Some browsers (like Chrome) automatically fix incorrect encodings, so depending on what browser you use, you may not see this problem. You should still set an encoding of utf-8 on your page anyway to avoid any potential problems in other browsers.
 
 # Adding an author and description
-- Many <meta> elements include name and content attributes:
+
+- Many `<meta>` elements include name and content attributes:
 
 - `name` specifies the type of meta element it is; what type of information it contains.
 - `content` specifies the actual meta content.
 
 - Two such meta elements that are useful to include on your page define the author of the page, and provide a concise description of the page.
-
-> EX: <meta name="author" content="Chris Mills" />
-<meta
-  name="description"
-  content="The MDN Web Docs Learning Area aims to provide
-complete beginners to the Web with all they need to know to get
-started with developing websites and applications." />
 
 - Specifying an author is beneficial in many ways: it is useful to be able to understand who wrote the page, if you have any questions about the content and you would like to contact them. Some content management systems have facilities to automatically extract page author information and make it available for such purposes.
 
@@ -484,21 +462,19 @@ started with developing websites and applications." />
 
 > Note: Many `<meta>` features just aren't used anymore. For example, the keyword <meta> element `(<meta name="keywords" content="fill, in, your, keywords, here">)` — which is supposed to provide keywords for search engines to determine relevance of that page for different search terms — is ignored by search engines, because spammers were just filling the keyword list with hundreds of keywords, biasing results.
 
-- As you travel around the web, you'll find other types of metadata, too. A lot of the features you'll see on websites are proprietary creations, designed to provide certain sites (such as social networking sites) with specific pieces of information they can use.
-
 # Adding custom icons to your site
 
-- To further enrich your site design, you can add references to custom icons in your metadata, and these will be displayed in certain contexts. The most commonly used of these is the favicon (short for "favorites icon", referring to its use in the "favorites" or "bookmarks" lists in browsers).
+- To further enrich your site design, you can add references to custom icons in your metadata, and these will be displayed in certain contexts. The most commonly used of these is the `favicon` (short for "favorites icon", referring to its use in the "favorites" or "bookmarks" lists in browsers).
 
-- The humble favicon has been around for many years. It is the first icon of this type: a `16-pixel` square icon used in multiple places. You may see (depending on the browser) favicons displayed in the browser tab containing each open page, and next to bookmarked pages in the bookmarks panel.
+- Favicon has been around for many years. It is the first icon of this type: a `16-pixel` square icon used in multiple places. You may see (depending on the browser) favicons displayed in the browser tab containing each open page, and next to bookmarked pages in the bookmarks panel.
 
 - A favicon can be added to your page by:
 
 - Saving it in the same directory as the site's index page, saved in `.ico` format (most also support favicons in more common formats like `.gif or .png`)
-- Adding the following line into your HTML's <head> block to reference it:
+- Adding the following line into your HTML's `<head>` block to reference it:
 - `<link rel="icon" href="favicon.ico" type="image/x-icon" />`
 
-> Note: If your site uses a `Content Security Policy (CSP)` to enhance its security, the policy applies to the favicon. If you encounter problems with the favicon not loading, verify that the Content-Security-Policy header's img-src directive is not preventing access to it.
+> Note: If your site uses a `Content Security Policy (CSP)` to enhance its security, the policy applies to the favicon. If you encounter problems with the favicon not loading, verify that the Content-Security-Policy header's `img-src` directive is not preventing access to it.
 
 ### Answers
 - An HTML attribute is the information inside the opening tag.
